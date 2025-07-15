@@ -235,6 +235,11 @@ export default function Dashboard() {
 
   return (
     <div style={styles.container}>
+
+
+
+
+
       <aside style={styles.sidebar}>
         <div>
           <div style={styles.logo}>Lost ID System</div>
@@ -267,6 +272,15 @@ export default function Dashboard() {
           Logout
         </div>
       </aside>
+
+
+
+
+
+
+
+
+      
 
       <main style={styles.main}>
         {selectedPage === 'Dashboard Overview' && (
