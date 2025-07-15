@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/LostIdForm": "pages/LostIdForm.js",
+  "/admin-login": "pages/admin-login.js",
+  "/LostIdFormComponent": "pages/LostIdFormComponent.js",
+  "/admin/dashboard": "pages/admin/dashboard.js"
+}
